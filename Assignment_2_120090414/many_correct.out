@@ -1,0 +1,25 @@
+Testing lb,sb,read/print_char, etc
+Please enter a char:
+The char you entered is:$
+Tests for .ascii
+aaa
+bbbbbbb
+ccc
+bbbbbbb
+ccc
+ccc
+You should see:
+aaa
+bbbbbbb
+ccc
+bbbbbbb
+ccc
+ccc
+for those strings
+Testing for fileIO syscalls
+num of chars printed to file:41
+If you see this, your fileIOs are cool!
+Testing for .half,.byte
+For half, the output should be: 65539 in decimal, and you have:65539
+For byte, the output should be: 16909059 in decimal, and you have:16909059. If you see this, your read_string is fine :)
+Bye!:D
